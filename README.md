@@ -1,1 +1,1 @@
-# Una pequeña muestra de lo que puedo realizar usando CSS, en este caso también añado el llamado a otra pagina web con el mismo estilo que la primera
+# Una pequeña muestra de lo que puedo realizar usando CSS, en este caso también añado el llamado a otra pagina web con el mismo estilo que la primera. Esto solo funciona al descsrgsr elnproyecto, ya que github pages no crea mas wue la pagina principal, asi que si quieres ver la función completa de este archivo te invito a descargarlo a tu computadora
