@@ -52,6 +52,7 @@ header section {
     display: flex;
     justify-content: center; /* Centrado horizontal */
     align-items: center; /* Centrado vertical */
+    gap: 20px;
 }
 div nav {
 
@@ -92,24 +93,50 @@ nav a {
     font-weight: bold;
 }
 #Ilustraciones img{
-    width: 20rem;
+    width: 22rem;
     height: 15rem;
 }
 .Plates{
     display: flex;
-    gap: 20px;
+    gap: 25px;
+    width: 20rem;
+    
+}
+.Plates section:hover{
+    transform: scale(1.2);
 }
 .Plates section{
     border: 5px solid #ffffff;
     background-color: #a20b0b8f;
     border-radius: 5px;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.5);
 }
 .Plates p{
     text-align: center;
 }
 footer {
     text-align: center;
-    font-style: italic;
+    font-style: italic;  
+}
+footer a{
+    text-decoration: none; /* Quita el subrayado */
+    text-align: center;
+    font-style: italic;  
+    color: #000000;
+}
+#Ilustraciones h3{
+    background-color: #840b0b94; /* Negro con 50% de opacidad */
+    width: 15rem;
+    height: 30px;
+    margin-top: 20px;
+    text-align: center;
+}
+#Ilustraciones h2{
+    background-color: #63321d8a; /* Negro con 50% de opacidad */
+    width: 15rem;
+    height: 30px;
+    margin-top: 20px;
+    text-align: center;
 }
 aside div{
     background-color: rgba(0, 0, 0, 0.5); /* Negro con 50% de opacidad */
