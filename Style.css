@@ -19,9 +19,6 @@ main {
     text-decoration: none;
     color: inherit;
 }
-#Menu {
-    position: relative;
-}
 #Menu section{
     background-color: #63321d8a;
     padding: 15px;
@@ -47,6 +44,14 @@ header img {
     width: 60px;
     height: 70px;
     display: inline-block;
+
+}
+header section {
+    border: solid 1px black;
+    background-color: rgba(255, 255, 255, 0.4);
+    display: flex;
+    justify-content: center; /* Centrado horizontal */
+    align-items: center; /* Centrado vertical */
 }
 div nav {
 
