@@ -1,1 +1,1 @@
-# Una pequeña muestra de lo que puedo realizar usando CSS, en este caso también añado el llamado a otra pagina web con el mismo estilo que la primera. Lamentablemente esto solo funciona al descargar el proyecto, ya que github pages no crea mas que la pagina principal, asi que si quieres ver la función completa de esta pagina web te invito a descargar el proyecto a tu computadora.
+# Una pequeña muestra de lo que puedo realizar usando CSS, en este caso también añado el llamado a otra pagina web con el mismo estilo que la primera. 
