@@ -81,6 +81,12 @@ aside img {
 aside img:hover{
     transform: scale(1.4);
 }
+aside div{
+    background-color: rgba(0, 0, 0, 0.5); /* Negro con 50% de opacidad */
+    color: #ddd;
+    text-shadow: none;
+    text-align: center;
+}
 ul{
     list-style: none;
     padding: 0;     
@@ -136,11 +142,5 @@ footer a{
     width: 15rem;
     height: 30px;
     margin-top: 20px;
-    text-align: center;
-}
-aside div{
-    background-color: rgba(0, 0, 0, 0.5); /* Negro con 50% de opacidad */
-    color: #ddd;
-    text-shadow: none;
     text-align: center;
 }
